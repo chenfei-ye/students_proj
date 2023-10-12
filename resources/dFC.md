@@ -12,7 +12,7 @@
 
 ### 准备工作
 1. 理解MRI影像及脑连接组基础概念，[部分参考](https://github.com/chenfei-ye/students_proj)。
-2. 熟练掌握dFC脑状态分析的计算流程[^参考工具1]，并深入理解脑连接组梯度的计算本质。
+2. 熟练掌握dFC脑状态分析的计算流程[^参考工具1]，并深入理解脑动态功能连接的计算本质。
 3. 基于[预处理后的HCP脑功能网络数据](https://github.com/chenfei-ye/students_proj#hcp%E6%95%B0%E6%8D%AE)计算dFC脑状态，以及可视化。
 4. 认真阅读文末参考文献（粗体为重点）[^35958983][^37021138][^23707587][^28698644]
 
@@ -28,7 +28,7 @@
 2. 研发的人脑功能状态计算工具包，支持不少于2种动态功能分析方案[^分析方案]。
 
 ### 关键点
-1. 具体的卡脖子问题主要参考文献[^35958983]的introduction部分，要体现在研究背景中。
+1. 拟解决的科学问题，须参考文献[^35958983]的introduction部分，**要具体体现在研究背景中**。
 2. dFC可视化用[nilearn](https://nilearn.github.io/dev/index.html)。
 3. 数据优先使用[预处理后的HCP脑功能网络数据](https://github.com/chenfei-ye/students_proj#hcp%E6%95%B0%E6%8D%AE)。
 4. 动态FC需要根据BOLD时序信号进行计算。
