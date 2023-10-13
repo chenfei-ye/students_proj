@@ -92,7 +92,7 @@
 2. [人脑影像功能动态分析计算方法](resources/dFC.md)
 3. [神经调控下的脑影像状态切换机制](resources/dbs_brainstates.md)
 4. [神经系统疾病的脑活动时空动态异常表征方法研究](resources/complex.md)
-5. 神经调控下的脑影像标志物挖掘
+5. [神经调控下的脑影像标志物挖掘](resources/fusa_brainstates.md)
 6. 个体化脑功能共激活状态分析研究及应用
 
 
