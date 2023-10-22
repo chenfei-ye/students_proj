@@ -86,6 +86,7 @@
 
 2. 来自[Cheng2019文章](https://doi.org/10.7554/eLife.40765)共享的脑连接组数据，[点此下载](https://doi.org/10.5061/dryad.736t01r)。这组HCP数据公开了其中**831个人的脑功能网络**，图谱采用[AAL120全脑图谱](https://www.sciencedirect.com/science/article/pii/S1053811919307803)。
 
+2. 来自[Lynn2021文章](https://doi.org/10.1073/pnas.2109889118)共享的脑连接组数据，[点此下载](https://www.dropbox.com/sh/p0tbnom0oum8f3d/AAC4eJsGGGAxLRdocq0_4gWaa?dl=0)。这组HCP数据公开了其中**590个人的脑功能网络**，图谱采用[Schaefer100全脑图谱](https://doi.org/10.1093/cercor/bhx179)[节点脑区与Yeo脑网络能直接对应]。
 
 ## 课题管理
 1. [人脑认知加工功能的影像梯度模式识别](resources/brain_gradients.md)

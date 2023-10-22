@@ -40,3 +40,4 @@
 [^35503014]: Liu T, Wang L, Suo D, Zhang J, Wang K, Wang J, Chen D, Yan T. Resting-State Functional MRI of Healthy Adults: Temporal Dynamic Brain Coactivation Patterns. Radiology. 2022 Sep;304(3):624-632. doi: 10.1148/radiol.211762. Epub 2022 May 3. PMID: 35503014.
 [^36652524]: Peng X, Liu Q, Hubbard CS, Wang D, Zhu W, Fox MD, Liu H. Robust dynamic brain coactivation states estimated in individuals. Sci Adv. 2023 Jan 18;9(3):eabq8566. doi: 10.1126/sciadv.abq8566. Epub 2023 Jan 18. PMID: 36652524; PMCID: PMC9848428.
 [^metrics]: a) frequency of occurrence (the number of times each state occurs per second), b) state duration (the average time an individual resides in each state during the scanning session) and c) fractional coverage (the proportion of time that an individual resides in the state during scanning)
+
