@@ -8,7 +8,7 @@
 
 ### 准备工作
 1. 理解MRI影像及脑连接组基础概念，[部分参考](https://github.com/chenfei-ye/students_proj)。
-2. 熟练掌握[brainspace](https://brainspace.readthedocs.io/en/latest/)计算流程（推荐python版本），并深入理解脑连接组梯度的计算本质。
+2. 熟练掌握[brainspace](https://brainspace.readthedocs.io/en/latest/)计算流程（推荐python版本），并深入理解脑连接组梯度的计算本质。**注意服务器安装brainspace需要vtk_osmesa，否则无法可视化（https://github.com/MICA-MNI/BrainSpace/issues/66）**
 3. 基于[预处理后的HCP脑功能网络数据](https://github.com/chenfei-ye/students_proj#hcp%E6%95%B0%E6%8D%AE)生成脑功能连接梯度，以及可视化。
 4. 认真阅读文末参考文献（粗体为重点）[^27791099][^32828920][^32139786][^37245278][^34148082][^36546249][^32882388]
 
