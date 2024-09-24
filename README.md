@@ -88,13 +88,20 @@
 
 2. 来自[Lynn2021文章](https://doi.org/10.1073/pnas.2109889118)共享的脑连接组数据，[点此下载](https://www.dropbox.com/sh/p0tbnom0oum8f3d/AAC4eJsGGGAxLRdocq0_4gWaa?dl=0)。这组HCP数据公开了其中**590个人的脑功能网络**，图谱采用[Schaefer100全脑图谱](https://doi.org/10.1093/cercor/bhx179)[节点脑区与Yeo脑网络能直接对应]。其中REST1和REST2表示扫了两次的静息态fMRI数据，LR代表从左到右的相位编码，RL代表从右到左的相位编码。REST每次扫描包含1200个时间点。
 
-## 课题管理
-1. [人脑认知加工功能的影像梯度模式识别](resources/brain_gradients.md)
-2. [人脑影像功能动态分析计算方法](resources/dFC.md)
-3. [神经调控下的脑影像状态切换机制](resources/dbs_brainstates.md)
-4. [神经系统疾病的脑活动时空动态异常表征方法研究](resources/complex.md)
-5. [神经调控下的脑影像标志物挖掘](resources/fusa_brainstates.md)
-6. [个体化脑功能共激活状态分析研究及应用](resources/CAPs.md)
+## 本年度课题管理
+- [针对精神障碍的人脑连接组的并行信息传输损伤机制研究——2021级——郑灿家](resources/network_comm.md)
+- [人脑海马体的形态表示和测量方法研究——2021级——杨乐](resources/hippo_morph.md)
+- [针对帕金森病的脑功能时域复杂度表示计算方法研究——2021级——赖义](resources/complex_continued.md)
+- [神经干细胞疗法的脑动态干预机制研究——2021级——黄文](resources/stemcell_brainstates.md)
+
+
+## 过往课题管理
+- [人脑认知加工功能的影像梯度模式识别——2020级——刘亚轩](resources/brain_gradients.md)
+- [人脑影像功能动态分析计算方法——2020级——茹宝莹](resources/dFC.md)
+- [神经调控下的脑影像状态切换机制——2020级——张馨](resources/dbs_brainstates.md)
+- [神经系统疾病的脑活动时空动态异常表征方法研究——2020级——杜钰](resources/complex.md)
+- [神经调控下的脑影像标志物挖掘——2020级——梁浩辉](resources/fusa_brainstates.md)
+- [个体化脑功能共激活状态分析研究及应用——2019级——侯宇腾](resources/CAPs.md)
 
 
 
