@@ -93,6 +93,7 @@
 - [人脑海马体的形态表示和测量方法研究——2021级——杨乐](resources/hippo_morph.md)
 - [针对帕金森病的脑功能时域复杂度表示计算方法研究——2021级——赖义](resources/complex_continued.md)
 - [神经干细胞疗法的脑动态干预机制研究——2021级——黄文](resources/stemcell_brainstates.md)
+- [针对多发性硬化的神经炎性分子影像定量分析研究——2021级——梁志恒](resources/ms_tspo.md)
 
 
 ## 过往课题管理
