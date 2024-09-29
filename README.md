@@ -94,12 +94,13 @@
 - [针对帕金森病的脑功能时域复杂度表示计算方法研究——2021级——赖义](resources/complex_continued.md)
 - [神经干细胞疗法的脑动态干预机制研究——2021级——黄文](resources/stemcell_brainstates.md)
 - [针对多发性硬化的神经炎性分子影像定量分析研究——2021级——梁志恒](resources/ms_tspo.md)
+- [针对磁共振引导聚焦超声治疗震颤症状的神经动力学研究——2021级——肖钰俊](resources/fusa_nmm.md)
 
 
 ## 过往课题管理
-- [人脑认知加工功能的影像梯度模式识别——2020级——刘亚轩](resources/brain_gradients.md)
+- [人脑认知加工功能的影像梯度模式识别——2020级——刘亚轩（学院优秀毕业论文）](resources/brain_gradients.md)
 - [人脑影像功能动态分析计算方法——2020级——茹宝莹](resources/dFC.md)
-- [神经调控下的脑影像状态切换机制——2020级——张馨](resources/dbs_brainstates.md)
+- [神经调控下的脑影像状态切换机制——2020级——张馨（学院优秀毕业论文）](resources/dbs_brainstates.md)
 - [神经系统疾病的脑活动时空动态异常表征方法研究——2020级——杜钰](resources/complex.md)
 - [神经调控下的脑影像标志物挖掘——2020级——梁浩辉](resources/fusa_brainstates.md)
 - [个体化脑功能共激活状态分析研究及应用——2019级——侯宇腾](resources/CAPs.md)
