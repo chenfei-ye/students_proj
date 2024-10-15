@@ -27,7 +27,6 @@
 ### A组题目：脑磁图的信号处理及脑疾病辅助诊断
 - 领队：杜钰
 - 队长：刘晰月
-- 研究内容：以脑磁图（MEG）脑活动时空动态表征模式为研究对象，研究如何利用信息理论复杂性分析来刻画人脑静息状态下功能活动的动态变异性，解析帕金森病患者的脑功能信号的可变性特征，从全脑功能活动时空复杂性分析的角度揭示帕金森病的脑机制。
 - 核心数据：[omega](https://www.mcgill.ca/bic/neuroinformatics/omega)
 - 核心软件：[brainstorm](https://neuroimage.usc.edu/brainstorm/)、[MNE](https://mne.tools/stable/auto_tutorials/intro/10_overview.html)、[FLUX](https://github.com/Neuronal-Oscillations/FLUX)
 - 入门任务：理解MEG扫描的基本概念，以及MEG信号处理背景、理论、核心软件和方法
@@ -42,7 +41,7 @@
 
 ### B组题目：静息态功能磁共振的脑网络分析及脑疾病影像学诊断
 - 领队：石嘉慧
-- 队长：？
+- 队长：罗湘琬
 - 核心软件：[fmriprep](https://fmriprep.org/en/stable/)、[xcp-d](https://xcp-d.readthedocs.io/en/latest/index.html)、[BCT](https://github.com/aestrivex/bctpy/wiki)
 - 入门任务：理解MRI成像的基本概念，及静息态功能磁共振影像（RestingState-fMRI）信号处理背景、理论、核心软件和方法
 - 主线任务：以静息态fMRI人脑功能连接组的网络拓扑为研究对象，解析帕金森病（PD）、快速眼球运动睡眠期行为障碍（RBD，可视为PD早期）及帕金森叠加综合征患者（如进行性核上麻痹PSP）的脑功能网络的空间模式差异，从Yeo功能子网络拓扑的角度揭示PD病理相关的脑网络损伤机制，最终建立一个PD早期诊断（RBD和健康对照）与鉴别诊断（针对PSP和PD）的影像学AI模型，并验证模型性能。
@@ -55,9 +54,7 @@
 - 脑网络图论分析技术[^30250388]
 
 
-### C组题目：任务态功能磁共振的信号处理及脑疾病机制探索
-- 领队：邓子言
-- 队长：？
+### 隐藏题目：任务态功能磁共振的信号处理及脑疾病机制探索
 - 核心软件：[fmriprep](https://fmriprep.org/en/stable/)、[nilearn](https://nilearn.github.io/dev/index.html)
 - 入门任务：理解MRI成像的基本概念，及任务态功能磁共振影像（task-fMRI）信号处理背景、理论、核心软件和方法
 - 主线任务：以任务态fMRI人脑功能图像为研究对象，解析跨诊断精神障碍在认知加工任务（Stroop task）和情绪感知任务（Face recognition task）下的脑激活表现，并解析疾病机制。
